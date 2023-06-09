@@ -1,0 +1,243 @@
+{
+  "main": {
+    "id": "2c0b4634a7285f81",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d6d697d56156724",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0cad06b167c8d879",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Forside - SNK 607.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bfe98c9de007523a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "286237aeab38e2c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "90100b8b6932a693",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df6946816b80c0d1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a47c37707c75c86e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1d1b2992024ebcd5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cb2c820d111c15e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c7d3ae33b2c723a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e616234d21a98aa",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "README.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7132754626224423,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "58c9345ea8a38807",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dcf69a6faafffbac",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a1250b0157d202bd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1aaa3baac3269545",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 262.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "bfe98c9de007523a",
+  "lastOpenFiles": [
+    "Forside - SNK 607.md",
+    "README.md",
+    "Problemer/Bilder/Funksjonelle bilder.md",
+    "Komplekst innhold.md",
+    "Wcag/WCAG.md",
+    "Problemer/Lenker i løpende tekst.md",
+    "Wcag/WCAG-regler/1.1.1.md",
+    "Wcag/WCAG-regler/3.1.2.md",
+    "Wcag/WCAG-regler/2.5.3.md",
+    "Wcag/WCAG-regler/1.2.1.md",
+    "Problemer/Bilder/Bildecover i navigasjon.md",
+    "Problemer/Navigasjon/Navigasjonselementer.md",
+    "Teams/Bilder.md",
+    "Teams/Navigasjon.md",
+    "Problemer/Navigasjon/Lenker med beskrivende mål.md",
+    "Teams/Tekst.md",
+    "Teams/Spill og interaksjon.md",
+    "Problemer/Språk i tekst.md",
+    "00 div/Attachmenets/GetImage (4).png",
+    "00 div/Attachmenets/GetImage (3).png",
+    "00 div/Attachmenets/GetImage (2).png",
+    "00 div/Attachmenets/GetImage (1).png",
+    "00 div/Attachmenets/GetImage.png",
+    "GetImage.png",
+    "GetImage (1).png",
+    "Problemer/Navigasjonsstruktur og begrepsbruk.md",
+    "Problemer/Bilder/Bildebeskrivelser.md",
+    "Problemer/Interaksjon/Quizproblemer/Memory.md",
+    "Problemer/Interaksjon/Quizproblemer/Kryssord.md",
+    "Problemer/Interaksjon/Quizproblemer/Hotspot.md",
+    "Problemer/Interaksjon/Quizproblemer/Fyll inn manglende felter.md",
+    "Problemer/Interaksjon/Quizproblemer/Drag and drop.md",
+    "Problemer/Tabeller.md",
+    "Problemer/Navigasjon",
+    "Problemer/Interaksjon/Quizproblemer",
+    "Problemer/Interaksjon",
+    "Problemer/Bilder",
+    "WCAG-regler",
+    "00 div/Templates",
+    "00 div",
+    "Problemer",
+    "Teams"
+  ]
+}

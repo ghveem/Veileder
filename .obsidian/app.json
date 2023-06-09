@@ -1,0 +1,12 @@
+{
+  "showLineNumber": true,
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "spellcheckLanguages": [
+    "en-US",
+    "nb"
+  ],
+  "readableLineLength": false,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "00 div/Attachmenets"
+}
