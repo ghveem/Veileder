@@ -14,6 +14,33 @@ En skjermlesebruker kan ha problemer med å skille mellom forskjellig type lenke
 ## Prefix og suffix 
 Et forslag for å forbedre brukeropplevelsen vil være å legge på prefixes og suffixes for å forklare lenkes formål enda mer.  
 
+## Struktur
+### > Eksempel på navigasjonsnivåer: 
+> Fag/Læreverk -> Trinn -> Hovedkategori -> Underkategori -> (Artikkel/innhold)
+> 
+###  > Eksempel på prefix/suffix
+> Ord og uttrykk om læringsressurser fra [NS4180](https://github.com/Utdanningsdirektoratet/ns4180/blob/master/vokabularer.md#15-learning-resource-type-learningresourcetype)
+> 	- kurs
+> 	- demonstrasjon
+> 	- simulering
+> 	- bilde
+> 	- oppsummering
+> 	- læringsaktivitet
+> 	- leksjon
+> 	- primærkilde
+> 	- vurderingsrubrikk
+> 	- egenevalutering
+> 	- tekst
+> 	- tekstbok
+> 	- 
+Her er det mange egenskaper som kan brukes: 
+### > 2.1. Accessibility Feature [accessibilityFeature](https://github.com/Utdanningsdirektoratet/ns4180/blob/master/typer-og-egenskaper.md#tilgjengelighetsspesifikke-egenskaper)
+f.eks alternativeText, braille, ChemML, describedMath, highContrastDisplay, largePrint, latex, MathML, signLanguage, tactileGraphic, tactileObject
+
+> i tillegg kan en merke læringsressurser med #### 2.3. Accessibility API ([accessibilityAPI](https://github.com/Utdanningsdirektoratet/ns4180/blob/master/typer-og-egenskaper.md#tilgjengelighetsspesifikke-egenskaper))
+> Indikerer at ressursen er kompatibel med den angitte tilgjengelighets-APIen / _Indicates that the resource is compatible with the referenced accessibility API_.
+
+
 ### Alt-text 
 Her kan det argumenteres at det i tillegg skal være alt-text på bildene. Men ettersom bildet er en del av lenken, er det lenkens formål som skal beskrives – noe som blir tydeligere ved å legge inn suffixes og prefixes på enkelte lenker.
 
