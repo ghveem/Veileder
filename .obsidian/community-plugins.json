@@ -1,5 +1,7 @@
 [
   "obsidian-plugin-toc",
   "dataview",
-  "editing-toolbar"
+  "editing-toolbar",
+  "obsidian-linter",
+  "highlightr-plugin"
 ]

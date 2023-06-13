@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Problemer/Tabeller.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#skjermleserbrukere",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,7 +100,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
+                "file": "Problemer/Tabeller.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -123,7 +123,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224423,
+                  "scale": 0.745304660909161,
                   "close": true
                 }
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Problemer/Tabeller.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Problemer/Tabeller.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Problemer/Tabeller.md"
               }
             }
           }
@@ -183,38 +183,46 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 470.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Åpne hurtigåpner": false,
+      "graph:Åpne grafvisning": false,
+      "daily-notes:Åpne dagens notat": false,
+      "templates:Sett inn mal": false,
+      "command-palette:Åpne kommandovelger": false,
+      "canvas:Create new canvas": false
     }
   },
   "active": "bfe98c9de007523a",
   "lastOpenFiles": [
-    "Forside - SNK 607.md",
+    "Problemer/Språk i tekst.md",
+    "Problemer/Navigasjon/Lenker med beskrivende mål.md",
     "README.md",
-    "Problemer/Bilder/Funksjonelle bilder.md",
     "Komplekst innhold.md",
+    "Forside - SNK 607.md",
     "Wcag/WCAG.md",
-    "Problemer/Lenker i løpende tekst.md",
-    "Wcag/WCAG-regler/1.1.1.md",
     "Wcag/WCAG-regler/3.1.2.md",
     "Wcag/WCAG-regler/2.5.3.md",
     "Wcag/WCAG-regler/1.2.1.md",
-    "Problemer/Bilder/Bildecover i navigasjon.md",
-    "Problemer/Navigasjon/Navigasjonselementer.md",
-    "Teams/Bilder.md",
-    "Teams/Navigasjon.md",
-    "Problemer/Navigasjon/Lenker med beskrivende mål.md",
+    "Wcag/WCAG-regler/1.1.1.md",
     "Teams/Tekst.md",
     "Teams/Spill og interaksjon.md",
-    "Problemer/Språk i tekst.md",
+    "Teams/Navigasjon.md",
+    "Teams/Bilder.md",
+    "Problemer/Lenker i løpende tekst.md",
+    "Problemer/Navigasjon/Navigasjonselementer.md",
+    "Problemer/Tabeller.md",
+    "Problemer/Navigasjonsstruktur og begrepsbruk.md",
+    "Problemer/Interaksjon/Quiz.md",
+    "Problemer/Interaksjon/Quizproblemer/Multiple choice.md",
+    "Problemer/Interaksjon/Quizproblemer/Memory.md",
+    "Problemer/Interaksjon/Quizproblemer/Kryssord.md",
+    "Problemer/Interaksjon/Quizproblemer/Klokke.md",
+    "Problemer/Interaksjon/Quizproblemer/Hotspot.md",
+    "Problemer/Interaksjon/Quizproblemer/Fyll inn manglende felter.md",
+    "Problemer/Interaksjon/Quizproblemer/Drag and drop.md",
     "00 div/Attachmenets/GetImage (4).png",
     "00 div/Attachmenets/GetImage (3).png",
     "00 div/Attachmenets/GetImage (2).png",
@@ -222,14 +230,6 @@
     "00 div/Attachmenets/GetImage.png",
     "GetImage.png",
     "GetImage (1).png",
-    "Problemer/Navigasjonsstruktur og begrepsbruk.md",
-    "Problemer/Bilder/Bildebeskrivelser.md",
-    "Problemer/Interaksjon/Quizproblemer/Memory.md",
-    "Problemer/Interaksjon/Quizproblemer/Kryssord.md",
-    "Problemer/Interaksjon/Quizproblemer/Hotspot.md",
-    "Problemer/Interaksjon/Quizproblemer/Fyll inn manglende felter.md",
-    "Problemer/Interaksjon/Quizproblemer/Drag and drop.md",
-    "Problemer/Tabeller.md",
     "Problemer/Navigasjon",
     "Problemer/Interaksjon/Quizproblemer",
     "Problemer/Interaksjon",

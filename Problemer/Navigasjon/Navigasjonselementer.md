@@ -8,9 +8,9 @@ opprettet: 09-06-2023
 sist oppdatert: 
 ---
 
-Navigasjonslenker som inneholder bilde holdes rene for alt-text for å ikke forstyrre lenkens mening. I enkelte tilfeller kan bildebeskrivelse/alt-text være forstyrrende for lenkens mening, men det fins selvfølgelig unntak. Her må man også tenke på målgruppe for innholdet.  
+#Navigasjonslenker som inneholder bilde holdes rene for #alt-text for å ikke forstyrre lenkens mening. I enkelte tilfeller kan #Bildebeskrivelse /alt-text være #forstyrrende for lenkens mening, men det fins selvfølgelig unntak. Her må man også tenke på #målgruppe for innholdet.  
 
-I følge W3C blir bilder ofte delt inn i flere undernivåer. Bilder som er en del av lenker blir definert som [Funksjonelle bilder](https://www.w3.org/WAI/tutorials/images/functional/). Her fins det selvfølgelig unntak, men meningen til bildet er å være en lenke til tittel-innholdet. Tittelen til lenken er ofte visuell, og kan være supplementer med både under-tittel, description + evt andre labels etc.
+I følge W3C blir bilder ofte delt inn i flere undernivåer. Bilder som er en del av lenker blir definert som [Funksjonelle bilder](https://www.w3.org/WAI/tutorials/images/functional/). Her fins det selvfølgelig unntak, men meningen til bildet er å være en lenke til tittel-innholdet. Tittelen til lenken er ofte visuell, og kan være supplementer med både under-tittel, #description + evt andre #labels etc. #funksjonelle_bilder 
 
 
 Her skal vi også se opp for problemet: [[Lenker med beskrivende mål]]. 
