@@ -2,7 +2,7 @@
 alias: Navigasjonselementer, Navigasjonslenker, Lenker med bilde, Lenker
 tags:
 gruppe: "[[Bilder]], [[Navigasjon]]"
-wcag: 1.1.1
+wcag: "[[1.1.1]]"
 
 opprettet: 09-06-2023
 sist oppdatert: 

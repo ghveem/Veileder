@@ -12,7 +12,7 @@ xxxxxxxxxxxxxxxxx
 xxxxxxxxxx
 xxxxxxxxx
 
-## Liste med koblet til Tekst
+## Liste med problemer koblet til Tekst
 ```dataview 
 table gruppe, wcag
 WHERE contains(gruppe, "[[Tekst]]")

@@ -2,7 +2,7 @@
 alias: Lenker, lenke, 
 tags:
 gruppe: "[[Tekst]], [[Navigasjon]]"
-wcag: 1.1.1
+wcag: "[[1.1.1]]"
 
 opprettet: 09-06-2023
 sist oppdatert: 
