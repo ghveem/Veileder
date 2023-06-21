@@ -16,6 +16,6 @@ xxxxxxxxx
 ## Liste med problemer koblet til Spill og interaksjon
 ```dataview 
 table gruppe, wcag
-WHERE contains(gruppe, "[[Spill og interaksjon]]")
+WHERE contains(gruppe, [[Spill og interaksjon]]) OR contains(gruppe, "Spill og interaksjon") 
 sort rating desc 
 ```

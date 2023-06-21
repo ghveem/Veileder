@@ -15,6 +15,6 @@ xxxxxxxxx
 ## Liste med problemer koblet til Tekst
 ```dataview 
 table gruppe, wcag
-WHERE contains(gruppe, "[[Tekst]]")
+WHERE contains(gruppe, [[Tekst]]) OR contains(gruppe, "Tekst") 
 sort rating desc 
 ```

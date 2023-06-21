@@ -16,6 +16,6 @@ xxxxxxxxx
 ## Liste med problemer koblet til Bilder
 ```dataview 
 table gruppe, wcag
-WHERE contains(gruppe, "Bilder")
+WHERE contains(gruppe, "Bilder") OR contains(gruppe, [[Bilder]]) 
 sort rating desc 
 ```

@@ -16,6 +16,6 @@ xxxxxxxxx
 ## Liste med problemer koblet til Navigasjon
 ```dataview 
 table gruppe, wcag
-WHERE contains(gruppe, "Navigasjon")
+WHERE contains(gruppe, "Navigasjon") OR contains(gruppe, [[Navigasjon]]) 
 sort rating desc 
 ```
