@@ -13,7 +13,7 @@ xxxxxxxxxxxxxxxxx
 xxxxxxxxxx
 xxxxxxxxx
 
-## Liste med koblet til Navigasjon
+## Liste med problemer koblet til Navigasjon
 ```dataview 
 table gruppe, wcag
 WHERE contains(gruppe, "Navigasjon")

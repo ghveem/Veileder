@@ -13,7 +13,7 @@ xxxxxxxxxxxxxxxxx
 xxxxxxxxxx
 xxxxxxxxx
 
-## Liste med koblet til Spill og interaksjon
+## Liste med problemer koblet til Spill og interaksjon
 ```dataview 
 table gruppe, wcag
 WHERE contains(gruppe, "[[Spill og interaksjon]]")

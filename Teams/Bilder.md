@@ -13,7 +13,7 @@ xxxxxxxxxxxxxxxxx
 xxxxxxxxxx
 xxxxxxxxx
 
-## Liste med koblet til Bilder
+## Liste med problemer koblet til Bilder
 ```dataview 
 table gruppe, wcag
 WHERE contains(gruppe, "Bilder")

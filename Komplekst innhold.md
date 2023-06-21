@@ -1,9 +1,60 @@
 # Komplekst innhold
-Læringsplattformer er som oftest store, kompliserte plattformer med mye variert innhold. Innholdet varierer fra tekst, video og bilde, men inkluderer også interaktive elementer som spill, interaksjoner, komplekse grafer med mer. Mange elever lærer visuelt og krever visuelle simuleringer, eller andre interaksjoner. Slike "custom elementer" blir gjerne kodet ved å manipulere HTML, noe som i enkelte tilfeller kan slå negativt ut på selve semantikken i koden, men ikke nødvendigvis noe en bruker vil oppleve. Aldersforskjell og stor variasjon av målgruppe er også et grunnleggende problem. Alt innholdet dupliseres gjerne minst en gang, til bokmål/nynorsk - men gjerne også flere ganger dersom læremiddelet er oversatt til flere språk. Ettersom innhold kan eksistere i flere versjoner og varianter, blir mengden innhold deretter multiplisert som øker kompleksiteten.
+placeholder: Læringsplattformer er som oftest store, kompliserte plattformer med mye variert innhold. Innholdet varierer fra tekst, video og bilde, men inkluderer også interaktive elementer som spill, interaksjoner, komplekse grafer med mer. Mange elever lærer visuelt og krever visuelle simuleringer, eller andre interaksjoner. Slike "custom elementer" blir gjerne kodet ved å manipulere HTML, noe som i enkelte tilfeller kan slå negativt ut på selve semantikken i koden, men ikke nødvendigvis noe en bruker vil oppleve. Aldersforskjell og stor variasjon av målgruppe er også et grunnleggende problem. Alt innholdet dupliseres gjerne minst en gan[[README]]g, til bokmål/nynorsk - men gjerne også flere ganger dersom læremiddelet er oversatt til flere språk. Ettersom innhold kan eksistere i flere versjoner og varianter, blir mengden innhold deretter multiplisert som øker kompleksiteten.
 
 Teksten er kun for å illustrere kompleksiteten som digitale læremidler jobber med og er ikke ment som en unnskyldning for å unngå reglementet. Man bør og skal strekke seg så langt man kan når det kommer til universell utforming. Ved å legge inn smarte metoder og teknikker vil man kunne nå svært mange grupper av mennesker med nedsatt funksjonsevne. For at disse teknikkene skal funke, vil det være nødvendig med personlige innstillinger på bruker. I enkelte tilfeller vil tilgjengelighetsfunksjonalitet "slå hverandre i hjel" dersom de er tilgjengelige samtidig.
 
 En bruker med skjermleser har forskjellige behov enn en person med motoriske vansker. Mennesker er også ulike og har forskjellige preferanser, så det må være lov å tilby personlig tilpasset tilgjengelighets-funksjonalitet.
+
+## Størrelse på nettsidene
+Digitale læremidler har som oftest store, komplekse nettsider. 
+
+**Eksempler på nettside-størrelser**
+[What is a "large" website? - Webmaster General forum at WebmasterWorld - WebmasterWorld](https://www.webmasterworld.com/webmaster/5724.htm)
+
+1. Brosjyre-nettsider
+	1. Liten: 1-side
+	2. Medium: 2-5 sider
+	3. Stor: 6-10 sider
+
+2. Hobbyside
+	1. Liten: under 10 sider
+	2. Medium: 10 til 50 sider
+	3. Stor: 50 til 100 sider
+	3. Enorm: over 100 sider
+
+3. Virksomhet
+	1. Liten: under 50 sider
+	2. Medium: 50 til 100 sider
+	3. Stor: 100 til 500 sider
+	3. Enorm: over 500 sider
+
+4. Informasjon
+	1.  Liten: under 100 sider
+	2. Medium: 100 til 500 sider
+	3. Stor: 500 til 1000 sider
+	3. Enorm: over 1000 sider
+
+5. Nettbutikk
+	1. Liten: under 1000 sider
+	2. Medium: 100 til 5000 sider
+	3. Stor: 5000 til 10000 sider
+	4. Enorm: over 10000 sider
+
+5. Digital læremidler
+	1. Liten: under 1000 sider
+	2. Medium: 100 til 5000 sider
+	3. Stor: 5000 til 10000 sider
+	4. Enorm: over 10000 sider
+
+
+**Hvilke utfordringer ligger det med store nettsider**
+- Flerspråklig-innhold
+- Tekst og bilde fra redaktører
+- Navigasjonsprinsipper
+- Målgruppe - strekker seg fra barneskole til voksenopplæring i tillegg til elev/lærer-status
+- Interaktive oppgaver
+
+
 
 ## Aldersforskjeller og målgruppe for innhold
 Innholdet som lages er laget for en målgruppe kan være fra barnehage til høyere utdanning. Barn og unge har som oftest begrenset leseferdigheter, mindre forståelse for kompleks navigasjon og digitale verktøy. Det kan også ha vanskeligheter med å forstå ord og konsepter som er over deres læringsnivå. Det er viktig at denne konteksten blir ivaretatt når vi lager universell utforming i våre læringsplattformer.
