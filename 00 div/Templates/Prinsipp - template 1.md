@@ -23,6 +23,10 @@ WCAG x.y
 ## Eksempel:
 [Her kan det vere kode, eller andre døme. Må vere "fiktive", eller generelle prinsipp.]
 
+## Utfordringer og problemstillinger: 
+[Me veit ofte kva problem ein kan møte på. Eller typiske problemstillingar. Skal ein ha video, må ein ofte ha eit alternativ]
+
+
 ## Lenke til mer informasjon eller eksterne eksempel: 
 [Lenke til døme på t.d. github, eller andre eksterne nettsider  ]
 
