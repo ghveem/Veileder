@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problemer/Tabeller.md",
+                "file": "Problemer/Navigasjon/Hoppe over blokker - skip links.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Problemer/Tabeller.md",
+                "file": "Problemer/Navigasjon/Hoppe over blokker - skip links.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -123,7 +123,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.745304660909161,
+                  "scale": 2.026246493011352,
                   "close": true
                 }
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Problemer/Tabeller.md",
+                "file": "Problemer/Navigasjon/Hoppe over blokker - skip links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Problemer/Tabeller.md",
+                "file": "Problemer/Navigasjon/Hoppe over blokker - skip links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Problemer/Tabeller.md"
+                "file": "Problemer/Navigasjon/Hoppe over blokker - skip links.md"
               }
             }
           }
@@ -197,8 +197,16 @@
   },
   "active": "bfe98c9de007523a",
   "lastOpenFiles": [
+    "Problemer/Navigasjon/Navigasjonselementer.md",
+    "Problemer/Navigasjon/Hoppe over blokker - skip links.md",
+    "00 div/Templates/Prinsipp - template 1.md",
+    "00 div/Templates/Problems - template.md",
+    "Problemer/Navigasjonsstruktur og begrepsbruk.md",
     "Problemer/Språk i tekst.md",
+    "Problemer/Tabeller.md",
+    "Problemer/Bilder/Bildebeskrivelser.md",
     "Problemer/Navigasjon/Lenker med beskrivende mål.md",
+    "Problemer/Lenker i løpende tekst.md",
     "README.md",
     "Komplekst innhold.md",
     "Forside - SNK 607.md",
@@ -211,18 +219,10 @@
     "Teams/Spill og interaksjon.md",
     "Teams/Navigasjon.md",
     "Teams/Bilder.md",
-    "Problemer/Lenker i løpende tekst.md",
-    "Problemer/Navigasjon/Navigasjonselementer.md",
-    "Problemer/Tabeller.md",
-    "Problemer/Navigasjonsstruktur og begrepsbruk.md",
     "Problemer/Interaksjon/Quiz.md",
     "Problemer/Interaksjon/Quizproblemer/Multiple choice.md",
     "Problemer/Interaksjon/Quizproblemer/Memory.md",
     "Problemer/Interaksjon/Quizproblemer/Kryssord.md",
-    "Problemer/Interaksjon/Quizproblemer/Klokke.md",
-    "Problemer/Interaksjon/Quizproblemer/Hotspot.md",
-    "Problemer/Interaksjon/Quizproblemer/Fyll inn manglende felter.md",
-    "Problemer/Interaksjon/Quizproblemer/Drag and drop.md",
     "00 div/Attachmenets/GetImage (4).png",
     "00 div/Attachmenets/GetImage (3).png",
     "00 div/Attachmenets/GetImage (2).png",
