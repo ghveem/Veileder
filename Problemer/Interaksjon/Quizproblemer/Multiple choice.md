@@ -8,9 +8,9 @@ opprettet: 29-05-2023
 sist oppdatert: 
 ---
 
-Kviss gjør at brukeren må være aktiv, og egner seg godt på alle stadier i en læringssituasjon. Det er også et motiverende element av lek og spill som gir muligheten til individuell tilbakemelding. Utforming og anbefalinger følger i stor grad de samme krav og anbefalinger som utforming av digitale skjema ([uu-tilsynet om skjema](https://www.uutilsynet.no/veiledning/skjema/38)). Hvis testen har tilbakemeldingsfunksjoner og poengberegning bør meldingene komme i logisk rekkefølge, ikke bare visuelt. Dette bør sjekkes med skjermleser. 
+Kviss gjør at brukeren må være aktiv, og egner seg godt på alle stadier i en læringssituasjon. Det er også et motiverende element av lek og spill som gir muligheten til individuell tilbakemelding. Utforming og anbefalinger følger i stor grad de samme krav og anbefalinger som utforming av digitale skjema ([uu-tilsynet om skjema](https://www.uutilsynet.no/veiledning/skjema/38)). Hvis testen har #tilbakemeldingsfunksjoner og poengberegning bør meldingene komme i #logisk_rekkefølge, ikke bare visuelt. Dette bør sjekkes med skjermleser. 
 
-Sigve: Riktig og feil svar 
+Sigve: Tilbakemeldinger ved riktig eller feil svar 
 
  Bruk av lyd for riktig og feil svar 
 
@@ -23,11 +23,11 @@ I teksten står det om anbefalt bruk av lyd for rett og galt svaralternativ ved 
 
 An e-learning application uses sound effects to indicate whether or not the answers are correct. The chime sound indicates that the answer is correct and the beep sound indicates that the answer is incorrect. A text description is also included so that people who can't hear or understand the sound understand whether the answer is correct or incorrect. 
 
-Bruk av aria-live og flytting av fokus 
+Bruk av #aria-live og flytting av #fokus 
 
-Dersom man har en tilbakemelding etter besvarelse bør dette kodes med aria-live.  
+Dersom man har en tilbakemelding etter besvarelse bør dette kodes med #aria-live.  
 
-I eksempelet under fra Elevkanalen kan man se at Neste-knappen er over quiz-alternativene. I slike tilfeller anbefales det å sette fokus til "neste"-knapp slik at fokusrekkefølgen blir logisk for bruker. 
+I eksempelet under fra Elevkanalen kan man se at Neste-knappen er over quiz-alternativene. I slike tilfeller anbefales det å sette fokus til "neste"-knapp slik at #fokusrekkefølgen blir logisk for bruker. 
 
 ![Spørsmål I av 2 
 Her skrives spørsmålet på quizen, så det 
